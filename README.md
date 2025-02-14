@@ -1,4 +1,3 @@
-# EagleViewCodility
 
 # Please find the code at imageProcessing/imageProcessing/imageProcessing.cpp
 
